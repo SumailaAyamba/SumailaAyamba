@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a junior Software Developer with a passion for creating innovative solutions and building impactful software applications.
+👋 Hi there! I'm Sumaila Ayamba, a junior Software Developer with a passion for creating innovative solutions and building impactful software applications.
 
 💻 I have a solid foundation in programming and am proficient in languages such as Python, Java, and JavaScript. As a junior developer, I'm continuously honing my skills and seeking opportunities to expand my knowledge in these languages.
 
